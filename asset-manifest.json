@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wolke.github.io/csb-fdrqd/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://wolke.github.io/csb-fdrqd/static/js/main.300fddc7.chunk.js",
+    "main.js.map": "https://wolke.github.io/csb-fdrqd/static/js/main.300fddc7.chunk.js.map",
+    "runtime-main.js": "https://wolke.github.io/csb-fdrqd/static/js/runtime-main.570cb81f.js",
+    "runtime-main.js.map": "https://wolke.github.io/csb-fdrqd/static/js/runtime-main.570cb81f.js.map",
+    "static/js/2.6018c1b0.chunk.js": "https://wolke.github.io/csb-fdrqd/static/js/2.6018c1b0.chunk.js",
+    "static/js/2.6018c1b0.chunk.js.map": "https://wolke.github.io/csb-fdrqd/static/js/2.6018c1b0.chunk.js.map",
+    "index.html": "https://wolke.github.io/csb-fdrqd/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://wolke.github.io/csb-fdrqd/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://wolke.github.io/csb-fdrqd/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.570cb81f.js",
+    "static/js/2.6018c1b0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.300fddc7.chunk.js"
+  ]
+}
